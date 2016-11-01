@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bgd_relatly_left_topbutton_gray"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="76.0" >
+
+        <ImageView
+            android:layout_width="81.0dip"
+            android:layout_height="81.0dip"
+            android:layout_centerInParent="true"
+            android:src="@drawable/default_user_icon" />
+
+        <ImageView
+            android:layout_width="84.0dip"
+            android:layout_height="84.0dip"
+            android:layout_centerInParent="true"
+            android:background="@drawable/rectangle_style_head_white_border" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2.0px"
+        android:background="#ff171a1d" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2.0px"
+        android:background="#ff31363c" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="24.0"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="46.0"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/Fragment_vew_left_takephoto_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="@drawable/bt_item"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/home_img"
+                    android:layout_width="40.0dip"
+                    android:layout_height="40.0dip"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="3.0dip"
+                    android:layout_marginLeft="50.0dip"
+                    android:background="@drawable/icon_home" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginBottom="4.0px"
+                    android:layout_marginLeft="20.0dip"
+                    android:layout_marginRight="20.0dip"
+                    android:layout_toRightOf="@id/home_img"
+                    android:background="@color/transparent"
+                    android:gravity="bottom|center|left"
+                    android:paddingBottom="3.0dip"
+                    android:text="@string/Fragment_vew_left_home"
+                    android:textColor="#fff2f2f2"
+                    android:textSize="@dimen/text_size_22" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="2.0px"
+                android:layout_marginLeft="98.0dip"
+                android:layout_marginRight="20.0dip"
+                android:background="#ff171a1d" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="2.0px"
+                android:layout_marginLeft="98.0dip"
+                android:layout_marginRight="20.0dip"
+                android:background="#ff31363c" />
+
+            <RelativeLayout
+                android:id="@+id/Fragment_vew_left_datamanager_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="@drawable/bt_item"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/habit_img"
+                    android:layout_width="40.0dip"
+                    android:layout_height="40.0dip"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="3.0dip"
+                    android:layout_marginLeft="50.0dip"
+                    android:background="@drawable/icon_habit" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginBottom="4.0px"
+                    android:layout_marginLeft="20.0dip"
+                    android:layout_marginRight="20.0dip"
+                    android:layout_toRightOf="@id/habit_img"
+                    android:gravity="bottom|center|left"
+                    android:paddingBottom="3.0dip"
+                    android:text="@string/Fragment_vew_left_habit"
+                    android:textColor="#fff2f2f2"
+                    android:textSize="@dimen/text_size_22" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="2.0px"
+                android:layout_marginLeft="98.0dip"
+                android:layout_marginRight="20.0dip"
+                android:background="#ff171a1d" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="2.0px"
+                android:layout_marginLeft="98.0dip"
+                android:layout_marginRight="20.0dip"
+                android:background="#ff31363c" />
+
+            <RelativeLayout
+                android:id="@+id/Fragment_vew_left_setting_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="@drawable/bt_item"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/setting_img"
+                    android:layout_width="40.0dip"
+                    android:layout_height="40.0dip"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="3.0dip"
+                    android:layout_marginLeft="50.0dip"
+                    android:background="@drawable/icon_setting" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginBottom="2.0px"
+                    android:layout_marginLeft="20.0dip"
+                    android:layout_marginRight="20.0dip"
+                    android:layout_toRightOf="@id/setting_img"
+                    android:gravity="bottom|center|left"
+                    android:paddingBottom="3.0dip"
+                    android:text="@string/Fragment_vew_left_setting"
+                    android:textColor="#fff2f2f2"
+                    android:textSize="@dimen/text_size_22" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="2.0px"
+                android:layout_marginLeft="98.0dip"
+                android:layout_marginRight="20.0dip"
+                android:background="#ff171a1d" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="2.0px"
+                android:layout_marginLeft="98.0dip"
+                android:layout_marginRight="20.0dip"
+                android:background="#ff31363c" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="54.0"
+            android:orientation="horizontal" />
+    </LinearLayout>
+
+</LinearLayout>

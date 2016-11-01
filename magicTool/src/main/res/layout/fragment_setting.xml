@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bgd_relatly"
+    android:orientation="vertical" >
+    <RelativeLayout android:orientation="vertical" android:background="@drawable/bgd_relatly_top_gray" android:layout_width="fill_parent" android:layout_height="60.0dip">
+        <Button android:id="@+id/setting_bt_back" android:background="@drawable/bt_the_navigation" android:layout_width="34.0dip" android:layout_height="34.0dip" android:layout_marginLeft="20.0dip" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        <TextView android:textSize="@dimen/text_size_18" android:textStyle="bold" android:textColor="#ffffffff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/setting_system" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/bgd_relatly" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="100.0dip"
+                android:layout_marginLeft="10.0dip"
+                android:layout_marginRight="10.0dip"
+                android:layout_marginTop="16.0dip"
+                android:background="@drawable/bgd_relatly_line_no_medium"
+                android:orientation="vertical" >
+
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@drawable/bt_nobgd_top_button_left_right_11"
+                    android:gravity="center|left"
+                    android:paddingLeft="10.0dip"
+                    android:textColor="#ff585858"
+                    android:textSize="@dimen/text_size_16" />
+
+                <ImageView
+                    android:layout_width="84.0dip"
+                    android:layout_height="84.0dip"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="8.0dip"
+                    android:layout_marginRight="8.0dip"
+                    android:src="@drawable/default_user_icon" />
+                <ImageView
+                    android:layout_width="8.0dip"
+                    android:layout_height="12.0dip"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10.0dip"
+                    android:background="@drawable/icon_go" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10.0dip"
+                android:layout_marginRight="10.0dip"
+                android:layout_marginTop="16.0dip"
+                android:background="@drawable/bgd_relatly_line_no_medium"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="55.0dip" >
+
+                    <Button
+                        android:id="@+id/id_ServerAddrButton"
+                        android:layout_width="100.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_marginLeft="1.0dip"
+                        android:layout_marginRight="1.0dip"
+                        android:layout_marginTop="1.0dip"
+                        android:background="@drawable/bt_nobgd_top_left_right"
+                        android:gravity="center|left"
+                        android:paddingLeft="10.0dip"
+                        android:text="@string/Setting_serverAddr"
+                        android:textColor="#ff585858"
+                        android:textSize="@dimen/text_size_16" />
+
+                    <EditText
+                        android:id="@+id/id_ServerAddrEditText"
+                        android:layout_height="40.0dip"
+                        android:layout_width="fill_parent"
+                        android:layout_toRightOf="@id/id_ServerAddrButton"
+                        android:layout_centerVertical="true"
+                        android:gravity="center_vertical"
+                        android:longClickable="true"
+                        android:focusable="false"
+                        android:textColor="#ff585858"
+                        android:textSize="@dimen/text_size_16"/>
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10.0dip"
+                android:layout_marginRight="10.0dip"
+                android:layout_marginTop="16.0dip"
+                android:background="@drawable/bgd_relatly_line_no_medium"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="55.0dip" >
+
+                    <Button
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_marginLeft="1.0dip"
+                        android:layout_marginRight="1.0dip"
+                        android:background="@drawable/bt_nobgd"
+                        android:gravity="center|left"
+                        android:paddingLeft="10.0dip"
+                        android:text="@string/Setting_email"
+                        android:textColor="#ff585858"
+                        android:textSize="@dimen/text_size_16" />
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="1.0dip"
+                    android:layout_marginLeft="1.0dip"
+                    android:layout_marginRight="1.0dip"
+                    android:background="@color/set_line" />
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="55.0dip" >
+
+                    <Button
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_marginBottom="1.0dip"
+                        android:layout_marginLeft="1.0dip"
+                        android:layout_marginRight="1.0dip"
+                        android:background="@drawable/bt_nobgd_button_left_right"
+                        android:gravity="center|left"
+                        android:paddingLeft="10.0dip"
+                        android:text="@string/Setting_aboutme"
+                        android:textColor="#ff585858"
+                        android:textSize="@dimen/text_size_16" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16.0dip"
+                android:layout_marginLeft="10.0dip"
+                android:layout_marginRight="10.0dip"
+                android:layout_marginTop="16.0dip"
+                android:background="@drawable/bgd_relatly_line_no_medium"
+                android:orientation="vertical" >
+
+                <Button
+                    android:id="@+id/setting_bt_exit"
+                    android:layout_width="fill_parent"
+                    android:layout_height="50.0dip"
+                    android:background="@drawable/bt_nobgd_top_button_left_right_11"
+                    android:text="@string/Setting_systemExit"
+                    android:textColor="#bbf70909"
+                    android:textSize="@dimen/text_size_18" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

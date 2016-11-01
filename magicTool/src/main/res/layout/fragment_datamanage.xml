@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ff262b31"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="46.0"
+        android:background="@drawable/bgd_relatly_top_gray"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="60.0dip"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/return_back_bt"
+                android:layout_width="34.0dip"
+                android:layout_height="34.0dip"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20.0dip"
+                android:background="@drawable/bt_the_navigation" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="@string/manage_data"
+                android:textColor="#ffffffff"
+                android:textSize="@dimen/text_size_18"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/upload_file_bt"
+                android:layout_width="40.0dip"
+                android:layout_height="40.0dip"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20.0dip"
+                android:background="@drawable/bt_the_upload"
+                android:textColor="#ffffffff"
+                android:textSize="18.0sp" />
+        </RelativeLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+            <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_margin="10dp" >
+
+                <ListView
+                    android:id="@+id/id_recordListView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </ListView>
+
+            </FrameLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

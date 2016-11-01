@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_navigation.xml",
+        "source": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\layout\\fragment_navigation.xml"
+    },
+    {
+        "merged": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_barcode.xml",
+        "source": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\layout\\fragment_barcode.xml"
+    },
+    {
+        "merged": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_takephoto.xml",
+        "source": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\layout\\fragment_takephoto.xml"
+    },
+    {
+        "merged": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\layout\\listview.xml",
+        "source": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\layout\\listview.xml"
+    },
+    {
+        "merged": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_datamanage.xml",
+        "source": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\layout\\fragment_datamanage.xml"
+    },
+    {
+        "merged": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\exploded-aar\\MagicTool\\slidingMenulibrary\\unspecified\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_setting.xml",
+        "source": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

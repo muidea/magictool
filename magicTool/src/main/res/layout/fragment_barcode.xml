@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ff262b31"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:orientation="vertical" >
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="60.0dip" >
+
+                <Button
+                    android:id="@+id/home_bt_back"
+                    android:layout_width="34.0dip"
+                    android:layout_height="34.0dip"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="20.0dip"
+                    android:background="@drawable/bt_the_navigation" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="@string/take_photo"
+                    android:textColor="#ffffffff"
+                    android:textSize="@dimen/text_size_18"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/id_TopPanelView" >
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical" >
+
+                    <FrameLayout
+                        android:id="@+id/id_CameraPreView"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent" >
+
+                    </FrameLayout>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:orientation="vertical"
+                    android:padding="20dp" >
+
+                    <ImageButton
+                        android:id="@+id/id_TakeMediaButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:src="@drawable/take_photo_button" />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="10dp" >
+                    <EditText
+                        android:id="@+id/id_BarcodeEdit"
+                        android:layout_width="200dp"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="center_horizontal"
+                        android:textColor="#ffffffff"
+                        android:inputType="text" />
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>
