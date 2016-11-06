@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\02.DevelopCode\\android\\MagicTool\\slidingMenulibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\slidingMenulibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 1130
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\slidingMenulibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\slidingMenulibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\02.DevelopCode\android\MagicTool\slidingMenulibrary\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\02.DevelopCode\android\MagicTool\slidingMenulibrary\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\02.DevelopCode\android\Project\MagicTool\slidingMenulibrary\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\02.DevelopCode\android\Project\MagicTool\slidingMenulibrary\src\debug\shaders"/></dataSet></merger>

@@ -1,54 +1,54 @@
 [
     {
-        "merged": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\default_user_icon.png",
-        "source": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\default_user_icon.png"
+        "merged": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bt_navigation_unfocused.png",
-        "source": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\bt_navigation_unfocused.png"
+        "merged": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bt_navigation_unfocused.png",
+        "source": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\bt_navigation_unfocused.png"
     },
     {
-        "merged": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
-        "source": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+        "merged": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_star1.png",
+        "source": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\icon_star1.png"
     },
     {
-        "merged": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_go.png",
-        "source": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\icon_go.png"
+        "merged": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_star2.png",
+        "source": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\icon_star2.png"
     },
     {
-        "merged": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_habit.png",
-        "source": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\icon_habit.png"
+        "merged": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bt_navigation_focused.png",
+        "source": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\bt_navigation_focused.png"
     },
     {
-        "merged": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\take_photo_button.png",
-        "source": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\take_photo_button.png"
+        "merged": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\default_user_icon.png",
+        "source": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\default_user_icon.png"
     },
     {
-        "merged": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bt_history_unfocused.png",
-        "source": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\bt_history_unfocused.png"
+        "merged": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_habit.png",
+        "source": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\icon_habit.png"
     },
     {
-        "merged": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_setting.png",
-        "source": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\icon_setting.png"
+        "merged": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_setting.png",
+        "source": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\icon_setting.png"
     },
     {
-        "merged": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_star1.png",
-        "source": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\icon_star1.png"
+        "merged": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_home.png",
+        "source": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\icon_home.png"
     },
     {
-        "merged": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_star2.png",
-        "source": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\icon_star2.png"
+        "merged": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_go.png",
+        "source": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\icon_go.png"
     },
     {
-        "merged": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_home.png",
-        "source": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\icon_home.png"
+        "merged": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\take_photo_button.png",
+        "source": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\take_photo_button.png"
     },
     {
-        "merged": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bt_navigation_focused.png",
-        "source": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\bt_navigation_focused.png"
+        "merged": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bt_history_unfocused.png",
+        "source": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\bt_history_unfocused.png"
     },
     {
-        "merged": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bt_history_focused.png",
-        "source": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\bt_history_focused.png"
+        "merged": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bt_history_focused.png",
+        "source": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\drawable-xxhdpi\\bt_history_focused.png"
     }
 ]

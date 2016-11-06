@@ -245,37 +245,39 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int icon_star1=0x7f020019;
         public static final int icon_star2=0x7f02001a;
         public static final int rectangle_style_head_white_border=0x7f02001b;
-        public static final int take_photo_button=0x7f02001c;
+        public static final int scan_barcode_button=0x7f02001c;
+        public static final int take_photo_button=0x7f02001d;
     }
     public static final class id {
         public static final int FILL=0x7f080001;
-        public static final int Fragment_vew_left_datamanager_layout=0x7f080013;
-        public static final int Fragment_vew_left_setting_layout=0x7f080015;
-        public static final int Fragment_vew_left_takephoto_layout=0x7f080011;
+        public static final int Fragment_vew_left_datamanager_layout=0x7f080014;
+        public static final int Fragment_vew_left_setting_layout=0x7f080016;
+        public static final int Fragment_vew_left_takephoto_layout=0x7f080012;
         public static final int STROKE=0x7f080002;
         public static final int container=0x7f080008;
         public static final int fullscreen=0x7f080005;
-        public static final int habit_img=0x7f080014;
+        public static final int habit_img=0x7f080015;
         public static final int home_bt_back=0x7f080009;
-        public static final int home_img=0x7f080012;
-        public static final int id_BarcodeEdit=0x7f08000d;
+        public static final int home_img=0x7f080013;
+        public static final int id_BarcodeEdit=0x7f08000e;
         public static final int id_CameraPreView=0x7f08000b;
-        public static final int id_ServerAddrButton=0x7f080018;
-        public static final int id_ServerAddrEditText=0x7f080019;
-        public static final int id_TakeMediaButton=0x7f08000c;
+        public static final int id_ServerAddrButton=0x7f080019;
+        public static final int id_ServerAddrEditText=0x7f08001a;
+        public static final int id_TakeMediaButton=0x7f08000d;
         public static final int id_TopPanelView=0x7f08000a;
-        public static final int id_recordListView=0x7f080010;
+        public static final int id_recordListView=0x7f080011;
+        public static final int id_scanBarCode=0x7f08000c;
         public static final int left=0x7f080003;
         public static final int margin=0x7f080006;
         public static final int none=0x7f080007;
-        public static final int return_back_bt=0x7f08000e;
+        public static final int return_back_bt=0x7f08000f;
         public static final int right=0x7f080004;
         public static final int selected_view=0x7f080000;
-        public static final int setting_bt_back=0x7f080017;
-        public static final int setting_bt_exit=0x7f08001a;
-        public static final int setting_img=0x7f080016;
-        public static final int slidingmenumain=0x7f08001b;
-        public static final int upload_file_bt=0x7f08000f;
+        public static final int setting_bt_back=0x7f080018;
+        public static final int setting_bt_exit=0x7f08001b;
+        public static final int setting_img=0x7f080017;
+        public static final int slidingmenumain=0x7f08001c;
+        public static final int upload_file_bt=0x7f080010;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
@@ -302,8 +304,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int alert_title=0x7f09000b;
         public static final int app_name=0x7f09000c;
         public static final int manage_data=0x7f09000d;
-        public static final int setting_system=0x7f09000e;
-        public static final int take_photo=0x7f09000f;
+        public static final int scan_barcode=0x7f09000e;
+        public static final int setting_system=0x7f09000f;
+        public static final int take_photo=0x7f090010;
     }
     public static final class style {
         public static final int AnimationActivity=0x7f050001;

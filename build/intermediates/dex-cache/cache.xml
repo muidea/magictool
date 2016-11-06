@@ -3,48 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="E:\02.DevelopCode\android\MagicTool\magicTool\src\main\libs\httpmime-4.1.1.jar"
+        jar="E:\02.DevelopCode\android\Project\MagicTool\magicTool\build\intermediates\exploded-aar\MagicTool\slidingMenulibrary\unspecified\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="d34b163e52a9727101aced60775d51c5085390a1">
-        <dex dex="E:\02.DevelopCode\android\MagicTool\magicTool\build\intermediates\pre-dexed\debug\httpmime-4.1.1_c18e3629fb7abf6f685a5d0d7496e9c70bedca59.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="E:\02.DevelopCode\android\MagicTool\magicTool\build\intermediates\pre-dexed\debug\support-v4-18.0.0_cd17d326241b6d6a08c4f9f4a82851f94ea26bc5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\02.DevelopCode\android\MagicTool\magicTool\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7990eea29edaebbf9657a039938c196fd75060da">
-        <dex dex="E:\02.DevelopCode\android\MagicTool\magicTool\build\intermediates\pre-dexed\debug\instant-run_a5add226e812854b426c6a3170bdb79762e91b01.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\02.DevelopCode\android\MagicTool\magicTool\src\main\libs\httpmime-4.1.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d34b163e52a9727101aced60775d51c5085390a1">
-        <dex dex="E:\02.DevelopCode\android\MagicTool\magicTool\build\intermediates\pre-dexed\debug\httpmime-4.1.1_c18e3629fb7abf6f685a5d0d7496e9c70bedca59.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\02.DevelopCode\android\MagicTool\magicTool\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6a0f26bc273b5320c1bcc5de568a7f3ffaf83811">
-        <dex dex="E:\02.DevelopCode\android\MagicTool\magicTool\build\intermediates\pre-dexed\debug\instant-run-bootstrap_63dc1ed160669f159c057e0847293465c504c19e.jar" />
+        sha1="652495086c020ddce0edcfd515b83ec9ebcf2b0e">
+        <dex dex="E:\02.DevelopCode\android\Project\MagicTool\magicTool\build\intermediates\pre-dexed\debug\MagicTool-slidingMenulibrary-unspecified_70b77c4f3eb2de2627f1399c8d90c7ec73629b59.jar" />
     </item>
     <item
         is-multidex="false"
@@ -53,7 +17,16 @@
         optimize="true"
         revision="25.0.0"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="E:\02.DevelopCode\android\MagicTool\magicTool\build\intermediates\pre-dexed\debug\support-v4-18.0.0_cd17d326241b6d6a08c4f9f4a82851f94ea26bc5.jar" />
+        <dex dex="E:\02.DevelopCode\android\Project\MagicTool\magicTool\build\intermediates\pre-dexed\debug\support-v4-18.0.0_cd17d326241b6d6a08c4f9f4a82851f94ea26bc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\02.DevelopCode\android\Project\MagicTool\magicTool\src\main\libs\httpmime-4.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d34b163e52a9727101aced60775d51c5085390a1">
+        <dex dex="E:\02.DevelopCode\android\Project\MagicTool\magicTool\build\intermediates\pre-dexed\debug\httpmime-4.1.1_b0bb32506aeb2db5abbd0ef5c5ec9e28a2f586aa.jar" />
     </item>
 
 </items>

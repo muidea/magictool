@@ -14,10 +14,12 @@ import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.ImageFormat;
+import android.graphics.Matrix;
 import android.graphics.Rect;
 import android.hardware.Camera;
 import android.hardware.Camera.Size;
 import android.media.CamcorderProfile;
+import android.media.ExifInterface;
 import android.media.MediaRecorder;
 import android.media.MediaRecorder.OnErrorListener;
 import android.media.ThumbnailUtils;
@@ -234,7 +236,7 @@ public class MediaUtil {
 		}
 		return true;
 	}
-	
+
 	public static int getFileType(String fileName) {
 		int index = fileName.lastIndexOf('.');
 		if (index == -1) {
@@ -319,7 +321,8 @@ public class MediaUtil {
                 parameters.setPictureFormat(ImageFormat.JPEG);
                 parameters.setJpegQuality(100);
                 List<Size> picSize = parameters.getSupportedPictureSizes();
-                int fixPos = picSize.size() / 2;
+                //int fixPos = picSize.size() / 2;
+				int fixPos = 0;
                 parameters.setPictureSize(picSize.get(fixPos).width, picSize.get(fixPos).height);
 
                 //parameters.setFlashMode(Camera.Parameters.FLASH_MODE_TORCH);
@@ -505,7 +508,14 @@ public class MediaUtil {
 
 				if (savePicture(data, pictureFile)) {
 					String saveFileName = pictureFile.toString();
-					
+                    try {
+                        ExifInterface exif = new ExifInterface(saveFileName);
+                        exif.setAttribute(ExifInterface.TAG_ORIENTATION, "6");
+                        exif.saveAttributes();
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
+
 					mCallBack.takePicture(saveFileName);
 				}
                 camera.startPreview();

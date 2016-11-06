@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:background="#ff262b31"
@@ -65,15 +66,26 @@
                     android:layout_height="wrap_content"
                     android:layout_alignParentBottom="true"
                     android:orientation="vertical"
-                    android:padding="20dp" >
-
+                    android:padding="20dp"
+                    android:weightSum="1">
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent">
+                        <Button
+                            android:id="@+id/id_scanBarCode"
+                            android:text="@string/scan_barcode"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="#ffffffff"
+                            android:gravity="right|center_vertical|start"
+                            android:layout_alignParentRight="true" />
+                    </RelativeLayout>
                     <ImageButton
                         android:id="@+id/id_TakeMediaButton"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:src="@drawable/take_photo_button" />
-
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="fill_parent"

@@ -25,6 +25,7 @@ public class BarCodeFragment extends Fragment implements MediaUtil.PhotoRecorder
 
     protected Button mBackButton = null;
     protected ImageButton mTakePhotoButton = null;
+    protected Button mScanBarCodeButton = null;
     protected EditText mBarcodeEditText = null;
     protected CallBack mCallBack = null;
 
@@ -53,7 +54,7 @@ public class BarCodeFragment extends Fragment implements MediaUtil.PhotoRecorder
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        View rootView = inflater.inflate(R.layout.fragment_takephoto, container, false);
+        View rootView = inflater.inflate(R.layout.fragment_barcode, container, false);
 
         mPhotoSavePath = SystemConfig.instance().getRecordPath();
         mCameraDispalyLayout = (FrameLayout) rootView.findViewById(R.id.id_CameraPreView);
@@ -72,6 +73,14 @@ public class BarCodeFragment extends Fragment implements MediaUtil.PhotoRecorder
         });
 
         mTakePhotoButton = (ImageButton)rootView.findViewById(R.id.id_TakeMediaButton);
+        mScanBarCodeButton = (Button)rootView.findViewById(R.id.id_scanBarCode);
+        mScanBarCodeButton.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                onScanBarCodeClick();
+            }
+        });
+
         mBarcodeEditText = (EditText)rootView.findViewById(R.id.id_BarcodeEdit);
         mBarcodeEditText.setOnKeyListener(new View.OnKeyListener() {
             @Override
@@ -188,11 +197,17 @@ public class BarCodeFragment extends Fragment implements MediaUtil.PhotoRecorder
         try {
             String barcode = mBarcodeEditText.getText().toString();
             if (!barcode.trim().isEmpty()) {
+                barcode = barcode.substring(0, barcode.length() -1);
                 mPhotoRecorder.takePhoto(barcode);
             }
         }catch (Exception e) {
 
         }
+    }
+
+    public void onScanBarCodeClick() {
+        mBarcodeEditText.setText("");
+        DestructPhotoView();
     }
 
     @Override
@@ -201,14 +216,11 @@ public class BarCodeFragment extends Fragment implements MediaUtil.PhotoRecorder
         message.what = R.id.id_TakeMediaButton;
         message.obj = fileName;
         mHandler.sendMessage(message);
+
     }
 
     private void showRecordView(String fileName) {
         mTakeingStatus = PHOTO_STATUS_IDLE;
-
-        mBarcodeEditText.setText("");
-
-        DestructPhotoView();
 
         String photoFile = fileName.substring(mPhotoSavePath.length() + 1);
         Toast.makeText(getActivity().getApplicationContext(), photoFile,Toast.LENGTH_SHORT).show();

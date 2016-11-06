@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,14 +11,7 @@
                     "endOffset": 111
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 158,
-                        "endColumn": 60,
-                        "endOffset": 214
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -30,14 +23,7 @@
                     "endOffset": 156
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 220,
-                        "endColumn": 44,
-                        "endOffset": 260
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -49,14 +35,7 @@
                     "endOffset": 204
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 57,
-                        "endColumn": 47,
-                        "endOffset": 100
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -68,14 +47,7 @@
                     "endOffset": 255
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 106,
-                        "endColumn": 50,
-                        "endOffset": 152
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -87,14 +59,7 @@
                     "endOffset": 1834
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 346,
-                        "endColumn": 55,
-                        "endOffset": 397
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
@@ -106,14 +71,7 @@
                     "endOffset": 1884
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 289,
-                        "endColumn": 49,
-                        "endOffset": 334
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
@@ -125,14 +83,7 @@
                     "endOffset": 1930
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 499,
-                        "endColumn": 45,
-                        "endOffset": 540
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
@@ -144,14 +95,7 @@
                     "endOffset": 1976
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 452,
-                        "endColumn": 45,
-                        "endOffset": 493
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
@@ -163,14 +107,7 @@
                     "endOffset": 2022
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 405,
-                        "endColumn": 45,
-                        "endOffset": 446
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
@@ -182,14 +119,7 @@
                     "endOffset": 2065
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\build\\intermediates\\exploded-aar\\MagicTool\\slidingMenulibrary\\unspecified\\res\\values\\values.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1092,
-                        "endColumn": 42,
-                        "endOffset": 1130
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\build\\intermediates\\exploded-aar\\MagicTool\\slidingMenulibrary\\unspecified\\res\\values\\values.xml"
                 }
             },
             {
@@ -201,14 +131,7 @@
                     "endOffset": 2120
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 158,
-                        "endColumn": 54,
-                        "endOffset": 208
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -220,14 +143,7 @@
                     "endOffset": 2174
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 104,
-                        "endColumn": 53,
-                        "endOffset": 153
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -239,14 +155,7 @@
                     "endOffset": 2231
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 213,
-                        "endColumn": 56,
-                        "endOffset": 265
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -258,14 +167,7 @@
                     "endOffset": 2284
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 573,
-                        "endColumn": 52,
-                        "endOffset": 621
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -277,14 +179,7 @@
                     "endOffset": 2347
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 510,
-                        "endColumn": 62,
-                        "endOffset": 568
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -296,14 +191,7 @@
                     "endOffset": 2400
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 457,
-                        "endColumn": 52,
-                        "endOffset": 505
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -315,14 +203,7 @@
                     "endOffset": 2450
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 626,
-                        "endColumn": 49,
-                        "endOffset": 671
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -334,14 +215,7 @@
                     "endOffset": 2495
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 412,
-                        "endColumn": 44,
-                        "endOffset": 452
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -353,14 +227,7 @@
                     "endOffset": 2539
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 809,
-                        "endColumn": 43,
-                        "endOffset": 848
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -372,14 +239,7 @@
                     "endOffset": 2586
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 722,
-                        "endColumn": 46,
-                        "endOffset": 764
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -391,14 +251,7 @@
                     "endOffset": 2626
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 769,
-                        "endColumn": 39,
-                        "endOffset": 804
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -410,14 +263,7 @@
                     "endOffset": 2671
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 677,
-                        "endColumn": 44,
-                        "endOffset": 717
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -429,14 +275,7 @@
                     "endOffset": 2718
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 56,
-                        "endColumn": 46,
-                        "endOffset": 98
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -448,14 +287,7 @@
                     "endOffset": 2763
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 318,
-                        "endColumn": 44,
-                        "endOffset": 358
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -463,17 +295,17 @@
                     "startLine": 42,
                     "startColumn": 4,
                     "startOffset": 2768,
-                    "endColumn": 47,
-                    "endOffset": 2811
+                    "endColumn": 45,
+                    "endOffset": 2809
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 363,
-                        "endColumn": 47,
-                        "endOffset": 406
+                        "startOffset": 411,
+                        "endColumn": 45,
+                        "endOffset": 452
                     }
                 }
             },
@@ -481,103 +313,76 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 2816,
-                    "endColumn": 42,
-                    "endOffset": 2854
+                    "startOffset": 2814,
+                    "endColumn": 47,
+                    "endOffset": 2857
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 275,
-                        "endColumn": 42,
-                        "endOffset": 313
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 2859,
-                    "endLine": 49,
-                    "endColumn": 12,
-                    "endOffset": 3256
+                    "startOffset": 2862,
+                    "endColumn": 41,
+                    "endOffset": 2899
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 228,
-                        "endLine": 10,
-                        "endColumn": 12,
-                        "endOffset": 630
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 50,
+                    "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 3261,
-                    "endLine": 53,
+                    "startOffset": 2904,
+                    "endLine": 50,
                     "endColumn": 12,
-                    "endOffset": 3463
+                    "endOffset": 3301
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 1,
-                        "startColumn": 4,
-                        "startOffset": 17,
-                        "endLine": 4,
-                        "endColumn": 12,
-                        "endOffset": 222
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\styles.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 54,
+                    "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 3468,
-                    "endLine": 62,
+                    "startOffset": 3306,
+                    "endLine": 54,
                     "endColumn": 12,
-                    "endOffset": 3984
+                    "endOffset": 3508
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 915,
-                        "endLine": 25,
-                        "endColumn": 12,
-                        "endOffset": 1439
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\styles.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 63,
+                    "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 3989,
-                    "endLine": 67,
+                    "startOffset": 3513,
+                    "endLine": 63,
                     "endColumn": 12,
-                    "endOffset": 4256
+                    "endOffset": 4029
                 },
                 "from": {
-                    "file": "E:\\02.DevelopCode\\android\\MagicTool\\magicTool\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 638,
-                        "endLine": 16,
-                        "endColumn": 12,
-                        "endOffset": 909
-                    }
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4034,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 4301
+                },
+                "from": {
+                    "file": "E:\\02.DevelopCode\\android\\Project\\MagicTool\\magicTool\\src\\main\\res\\values\\styles.xml"
                 }
             }
         ]
